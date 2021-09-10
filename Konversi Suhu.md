@@ -16,7 +16,6 @@
 1. Start
 2. Masukkan Nilai Awal a=1
 3. Tentukan Apakah a<=13
-
 Penyelesaian
 5. Jumlahkan Bilangan 1 dengan 1
 6. Jumlahkan Bilangan 1 dengan 2
