@@ -1,16 +1,16 @@
 ## Konversi Suhu
-1  '''c
-2  main(){
-3    int c=25;
-4    float f,r;
-5    f=1.8*c+32;
-6    r=0.8*c;
-7    cout<<"c=25"<<endl;
-8    cout<<"F="<<f;
-9    cout<<endl;
-10   cout<<"R="<<r;
-11 }
-12 ```
+1.  '''c
+2.  main(){
+3.    int c=25;
+4.    float f,r;
+5.    f=1.8*c+32;
+6.    r=0.8*c;
+7.    cout<<"c=25"<<endl;
+8.    cout<<"F="<<f;
+9.    cout<<endl;
+10.   cout<<"R="<<r;
+11. }
+12. ```
 
 ## Deret Bilangan
 1. Start
