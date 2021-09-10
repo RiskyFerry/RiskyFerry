@@ -18,12 +18,12 @@
 3. Tentukan Apakah a<=13
 
 Penyelesaian
-5.   Jumlahkan Bilangan 1 dengan 1
-6.   Jumlahkan Bilangan 1 dengan 2
-7.   Jumlahkan Bilangan 2 dengan 3
-8.   Jumlahkan Bilangan 3 dengan 5
-9.   Jumlahkan Bilangan 5 dengan 8
-10.  Jumlahkan Bilangan 8 dengan 13
+5. Jumlahkan Bilangan 1 dengan 1
+6. Jumlahkan Bilangan 1 dengan 2
+7. Jumlahkan Bilangan 2 dengan 3
+8. Jumlahkan Bilangan 3 dengan 5
+9. Jumlahkan Bilangan 5 dengan 8
+10.Jumlahkan Bilangan 8 dengan 13
 ```
 Penjumlahannya
 1+1=2
