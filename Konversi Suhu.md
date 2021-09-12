@@ -1,5 +1,4 @@
 ##  Konversi Suhu
-
 '''c
 main(){
   int c=25;
@@ -17,7 +16,6 @@ main(){
 Start
 Masukkan Nilai Awal a=1
 Tentukan Apakah a<=13
-
 Penyelesaian:
 Jumlahkan Bilangan 1 dengan 1
 Jumlahkan Bilangan 1 dengan 2
@@ -31,4 +29,5 @@ Penjumlahannya
 2+3=5
 3+5=8
 5+8=13
+'''
 
