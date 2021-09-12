@@ -10,7 +10,7 @@ main(){
   cout<<endl;
   cout<<"R="<<r;
 }
-```
+'''
 
 ## Deret Bilangan
 Start
@@ -23,7 +23,7 @@ Jumlahkan Bilangan 2 dengan 3
 Jumlahkan Bilangan 3 dengan 5
 Jumlahkan Bilangan 5 dengan 8
 '''
-Penjumlahannya;
+Penjumlahannya
 1+1=2;
 1+2=3;
 2+3=5;
