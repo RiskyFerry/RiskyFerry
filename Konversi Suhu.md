@@ -13,16 +13,15 @@
 12. ```
 
 ## Deret Bilangan
-1. Start
-2. Masukkan Nilai Awal a=1
-3. Tentukan Apakah a<=13
+Start
+Masukkan Nilai Awal a=1
+Tentukan Apakah a<=13
 Penyelesaian:
-5. Jumlahkan Bilangan 1 dengan 1
-6. Jumlahkan Bilangan 1 dengan 2
-7. Jumlahkan Bilangan 2 dengan 3
-8. Jumlahkan Bilangan 3 dengan 5
-9. Jumlahkan Bilangan 5 dengan 8
-10. Jumlahkan Bilangan 8 dengan 13
+Jumlahkan Bilangan 1 dengan 1
+Jumlahkan Bilangan 1 dengan 2
+Jumlahkan Bilangan 2 dengan 3
+Jumlahkan Bilangan 3 dengan 5
+Jumlahkan Bilangan 5 dengan 8
 ```
 Penjumlahannya
 1+1=2
