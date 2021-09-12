@@ -22,12 +22,11 @@ Jumlahkan Bilangan 1 dengan 2
 Jumlahkan Bilangan 2 dengan 3
 Jumlahkan Bilangan 3 dengan 5
 Jumlahkan Bilangan 5 dengan 8
-```
-Penjumlahannya
-1+1=2
-1+2=3
-2+3=5
-3+5=8
-5+8=13
 '''
+Penjumlahannya;
+1+1=2;
+1+2=3;
+2+3=5;
+3+5=8;
+5+8=13;
 
