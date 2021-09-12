@@ -14,14 +14,14 @@
 
 ## Deret Bilangan
 Start
-Masukkan Nilai Awal a=1
-Tentukan Apakah a<=13
+ Masukkan Nilai Awal a=1
+ Tentukan Apakah a<=13
 Penyelesaian:
-Jumlahkan Bilangan 1 dengan 1
-Jumlahkan Bilangan 1 dengan 2
-Jumlahkan Bilangan 2 dengan 3
-Jumlahkan Bilangan 3 dengan 5
-Jumlahkan Bilangan 5 dengan 8
+ Jumlahkan Bilangan 1 dengan 1
+ Jumlahkan Bilangan 1 dengan 2
+ Jumlahkan Bilangan 2 dengan 3
+ Jumlahkan Bilangan 3 dengan 5
+ Jumlahkan Bilangan 5 dengan 8
 ```
 Penjumlahannya
 1+1=2
