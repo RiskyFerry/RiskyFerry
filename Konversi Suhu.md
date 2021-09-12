@@ -24,9 +24,9 @@ Penyelesaian:
  Jumlahkan Bilangan 5 dengan 8
 ```
 Penjumlahannya
-1+1=2
-2+1=3
-3+2=5
-5+3=8
-8+5=13
+ 1+1=2
+ 2+1=3
+ 3+2=5
+ 5+3=8
+ 8+5=13
 
